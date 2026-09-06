@@ -8,7 +8,7 @@ I am a junior software developer with experience in Python, web development, SQL
 I can help with debugging, fixing errors, testing applications and developing small software solutions.
              
 <table> 
-<tr>     
+<tr>      
 <td width="70%">
 
 ## What I've been building
